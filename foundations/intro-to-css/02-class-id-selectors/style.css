@@ -1,12 +1,12 @@
 /* Add CSS Styling */
 
-p{
+.odd{
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .third-element{
-    font-size: 24px
+    font-size: 24px;
 }
 
 #second{
